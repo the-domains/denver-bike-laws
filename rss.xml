@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Denver Bike Laws]]></title>
         <description><![CDATA[Denver Bike Laws]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.denverbikelaws.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 22:35:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 23:03:53 GMT</lastBuildDate>
+        <atom:link href="http://www.denverbikelaws.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/164e4157-a5cf-42fb-8f1d-7eaa43739b75.jpg">]]></description>
+            <link>http://www.denverbikelaws.com/text-here/index.html</link>
+            <guid isPermaLink="false">b887865b-9f5f-42d5-9a32-22ddf4ea0907</guid>
+            <pubDate>Wed, 23 Mar 2016 23:03:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd8d4ae9-25eb-4038-b3f9-f92d576aa304.jpg">]]></description>
-            <link>undefined2636244a-abc0-4075-9531-23e743666252/index.html</link>
+            <link>http://www.denverbikelaws.com/2636244a-abc0-4075-9531-23e743666252/index.html</link>
             <guid isPermaLink="false">2636244a-abc0-4075-9531-23e743666252</guid>
             <pubDate>Wed, 09 Mar 2016 22:34:11 GMT</pubDate>
         </item>
